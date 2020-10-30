@@ -1,0 +1,13 @@
+Hardware yang digunakan pada weigher project
+
+1. Arduino
+2. Loadcell
+3. HX11 analog to digital untuk loadcell
+4. Dua unit step motor atau servo motor
+5. Hopper
+6. Weighing Bucket
+7. Dua buah gate pasangan motor
+8. Guide
+9. Rangka
+10. Kabel jumper
+11. 3 Unit power supply (arduino, 2 motor)

@@ -2,7 +2,7 @@ Hardware yang digunakan pada weigher project
 
 1. Arduino
 2. Loadcell
-3. HX11 analog to digital untuk loadcell
+3. HX711 analog to digital untuk loadcell
 4. Dua unit step motor atau servo motor
 5. Hopper
 6. Weighing Bucket

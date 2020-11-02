@@ -1,0 +1,18 @@
+Senin 2 November :
+    Pembelian hardware:
+        1. 2 unit servo motor
+        2. Load cell
+        3. HX711 ADC
+        4. Keypad
+        5. LCD
+        6. I2C LCD module
+        7. Arduino Uno
+        8. Push Button
+        9. Kabel Jumper
+        10. Tinol
+        11. Pin header
+        
+    Coding: 
+        1. Pencarian resources calibrating HX711 module coding
+        2. Instalasi software Arduino IDE
+        3. Instalasi library HX711 module software
